@@ -4,4 +4,4 @@
 * HTML
 * CSS
 ## Демо
-<http://organica.snow-bird.ru/>
+<https://organica.andreybeliavsky.ru/>
